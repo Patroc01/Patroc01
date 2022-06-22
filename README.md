@@ -16,7 +16,7 @@ Olá, sou eu, Marlu Patrocínio! 👋
 - ⚡ Fato curioso: Também sou interessado em privacidade e proteção de dados!
 
 <div align="center">
-  <a href="https://github.com/Patroc01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patroc01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patroc01&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/marlupatrocinio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlupatrocinio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlupatrocinio&layout=compact&langs_count=7&theme=dark"/>
 </div>
