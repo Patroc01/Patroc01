@@ -15,6 +15,11 @@ Olá, sou eu, Marlu Patrocínio! 👋
 - 📫 Como me contatar: marlupatrocinio01@gmail.com / https://www.linkedin.com/in/marlu-patrocinio/
 - ⚡ Fato curioso: Também sou interessado em privacidade e proteção de dados!
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marlu-patrocinio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlu-patrocinio" height="30" width="40" /></a>
+</p>
+
 <div align="center">
   <a href="https://github.com/marlupatrocinio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlupatrocinio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
