@@ -2,7 +2,7 @@
 Hi, it's me, Marlu Patrocínio! 👋
 
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with things related to back-end
+- 🤔 I’m looking for help with things related to back-end development
 - 📫 How to reach me: marlupatrocinio01@gmail.com
 - ⚡ Fun fact: I'm also very interested in privacy and data protection!
 
@@ -11,7 +11,7 @@ Hi, it's me, Marlu Patrocínio! 👋
 Olá, sou eu, Marlu Patrocínio! 👋
 
 - 🌱 Atualmente estou estudando Java
-- 🤔 Estou em busca de ajuda com matérias relacionadas ao back-end
+- 🤔 Estou em busca de ajuda com matérias relacionadas ao desenvolvimento back-end
 - 📫 Como me contatar: marlupatrocinio01@gmail.com
 - ⚡ Fato curioso: Também sou interessado em privacidade e proteção de dados!
 
