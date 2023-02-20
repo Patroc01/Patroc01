@@ -22,6 +22,11 @@ Olá, sou eu, Marlu Patrocínio! 👋
 <a href="https://linkedin.com/in/marlu-patrocinio/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlu-patrocinio" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Certificates:</h3>
+<p align="left">
+<a href="https://app.exeed.pro/holder/badge/90209" target="blank"><img align="center" src="https://gcdnb.pbrd.co/images/v2ChrBWuKLgO.png?o=1" alt="marlu-patrocinio" height="50" width="50" /></a>
+</p>
+
 <div align="center">
   <a href="https://github.com/marlupatrocinio">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marlupatrocinio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
