@@ -27,7 +27,7 @@ Olá, sou eu, Marlu Patrocínio! 👋
 </p>
 
 <div align="center">
-  <a href="https://github.com/marlupatrocinio">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marlupatrocinio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marlupatrocinio&layout=compact&langs_count=7&theme=dark"/>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlupatrocinio&show_icons=true&theme=dark&locale=en&layout=compact" alt="marlupatrocinio" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlupatrocinio&show_icons=true&theme=dark&locale=en" alt="marlupatrocinio" /></p>
 </div>
