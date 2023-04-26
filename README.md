@@ -22,8 +22,8 @@ Olá, sou eu, Marlu Patrocínio! 👋
 
 <h3 align="left">Certificates:</h3>
 <p align="left">
-<a href="https://app.exeed.pro/holder/badge/90209" target="blank"><img align="center" src="https://gcdnb.pbrd.co/images/v2ChrBWuKLgO.png?o=1" alt="marlu-patrocinio" height="100" width="100" /></a>
-<a href="https://www.credly.com/badges/0d4b0ada-fc02-407a-90c8-692f01f2736b/public_url" target="blank"><img align="center" src="https://i.postimg.cc/DzMh8rS6/cybersecurity-essentials.png" alt="marlu-patrocinio" height="100" width="100" /></a>
+<a href="https://app.exeed.pro/holder/badge/90209" target="blank"><img align="center" src="https://gcdnb.pbrd.co/images/v2ChrBWuKLgO.png?o=1" alt="marlu-patrocinio" height="75" width="75" /></a>
+<a href="https://www.credly.com/badges/0d4b0ada-fc02-407a-90c8-692f01f2736b/public_url" target="blank"><img align="center" src="https://i.postimg.cc/DzMh8rS6/cybersecurity-essentials.png" alt="marlu-patrocinio" height="75" width="75" /></a>
 </p>
 
 <div align="center">
