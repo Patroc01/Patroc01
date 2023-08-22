@@ -29,7 +29,7 @@ Olá, sou eu, Marlu Patrocínio! 👋
 </p>
 
 <div align="center">
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlupatrocinio&show_icons=true&theme=dark&locale=en&layout=compact" alt="marlupatrocinio" /></p>
+ <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=marlupatrocinio&show_icons=true&theme=dark&locale=en&layout=compact" alt="marlupatrocinio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlupatrocinio&show_icons=true&theme=dark&locale=en" alt="marlupatrocinio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marlupatrocinio&show_icons=true&theme=dark&locale=en" alt="marlupatrocinio" /></p>
 </div>
