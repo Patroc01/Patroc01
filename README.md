@@ -1,8 +1,8 @@
 
 Hi, it's me, Marlu Patrocínio! 👋
 
-- :blue_book: I'm a student majoring in Systems Analysis and Development and currently learning Java
-- 🤔 I’m looking for help with things related to back-end development
+- :blue_book: I'm a student majoring in Systems Analysis and Development and currently learning Java, Python and C#
+- 🤔 I’m looking for help with things related to backend development
 - 📫 How to reach me: marlupatrocinio01@gmail.com
 - ⚡ Fun fact: I'm also very interested in privacy and data protection!
 
@@ -10,8 +10,8 @@ Hi, it's me, Marlu Patrocínio! 👋
 
 Olá, sou eu, Marlu Patrocínio! 👋
 
-- :blue_book: Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estudando Java
-- 🤔 Estou em busca de ajuda com matérias relacionadas ao desenvolvimento back-end
+- :blue_book: Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estudando Java, Python e C#
+- 🤔 Estou em busca de ajuda com matérias relacionadas ao desenvolvimento backend
 - 📫 Como me contatar: marlupatrocinio01@gmail.com
 - ⚡ Fato curioso: Também sou interessado em privacidade e proteção de dados!
 
