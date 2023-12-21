@@ -23,6 +23,7 @@ Olá, sou eu, Marlu Patrocínio! 👋
 <h3 align="left">Certificates:</h3>
 <p align="left">
 <a href="https://app.exeed.pro/holder/badge/90209" target="blank"><img align="center" src="https://i.postimg.cc/wvkmkZz6/EXIN-Badge-Module-Foundation-PDP-1024x1024.png" alt="marlu-patrocinio" height="75" width="75" /></a>
+ <a href="https://www.credly.com/badges/16e2daaa-fe3d-4bde-9184-dc5cbf694759/public_url" target="blank"><img align="center" src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="marlu-patrocinio" height="75" width="75" /></a>
 <a href="https://www.credly.com/badges/0d4b0ada-fc02-407a-90c8-692f01f2736b/public_url" target="blank"><img align="center" src="https://i.postimg.cc/DzMh8rS6/cybersecurity-essentials.png" alt="marlu-patrocinio" height="75" width="75" /></a>
  <a href="https://www.cloudskillsboost.google/public_profiles/c46e267f-d472-4b01-b994-32638e3632f8" target="blank"><img align="center" src="https://i.postimg.cc/7h0YVT0S/google-cloud-logo-0.png" alt="marlu-patrocinio" height="75" width="75" /></a>
  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=0B49F9D802CCE6A0B9EB7849345FF246BE59C902710133AEEBF5D37A2CE9F0A0" target="blank"><img align="center" src="https://i.postimg.cc/yY0xPymk/OCIF2023-CA-1.png" alt="marlu-patrocinio" height="75" width="75" /></a>
